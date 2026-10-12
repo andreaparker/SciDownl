@@ -1,0 +1,1912 @@
+[
+  {
+    "case_id": "modern_exact",
+    "category": "modern_papers",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Coherent transport in a synthetic lattice",
+      "authors": [
+        "Ada Vale",
+        "Ivo Reed"
+      ],
+      "year": 2020,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Coherent transport in a synthetic lattice",
+        "authors": [
+          "Ada Vale",
+          "Ivo Reed"
+        ],
+        "year": 2020,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.001"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-001",
+        "source_url": "https://example.invalid/fixtures/001"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.001"
+    }
+  },
+  {
+    "case_id": "modern_punctuation",
+    "category": "modern_papers",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Photon counting: noise, drift, and calibration",
+      "authors": [
+        "Ada Vale"
+      ],
+      "year": 2020,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "PHOTON COUNTING—Noise Drift and Calibration",
+        "authors": [
+          "Ada Vale"
+        ],
+        "year": 2020,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.002"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-002",
+        "source_url": "https://example.invalid/fixtures/002"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.002"
+    }
+  },
+  {
+    "case_id": "modern_typography",
+    "category": "modern_papers",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Non-equilibrium scattering in layered systems",
+      "authors": [
+        "Ivo Reed"
+      ],
+      "year": 2020,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Non equilibrium scattering in layered systems",
+        "authors": [
+          "Ivo Reed"
+        ],
+        "year": 2020,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.003"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-003",
+        "source_url": "https://example.invalid/fixtures/003"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.003"
+    }
+  },
+  {
+    "case_id": "author_initials",
+    "category": "author_variants",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Temporal correlations of a synthetic oscillator",
+      "authors": [
+        "A. M. Vale"
+      ],
+      "year": 2020,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Temporal correlations of a synthetic oscillator",
+        "authors": [
+          "Ada Marie Vale"
+        ],
+        "year": 2020,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.004"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-004",
+        "source_url": "https://example.invalid/fixtures/004"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.004"
+    }
+  },
+  {
+    "case_id": "surname_first",
+    "category": "author_variants",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Calibrated magnetic response of dilute alloys",
+      "authors": [
+        "Reed, Ivo"
+      ],
+      "year": 2020,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Calibrated magnetic response of dilute alloys",
+        "authors": [
+          "Ivo Reed"
+        ],
+        "year": 2020,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.005"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-005",
+        "source_url": "https://example.invalid/fixtures/005"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.005"
+    }
+  },
+  {
+    "case_id": "diacritic_authors",
+    "category": "author_variants",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Boundary modes in a corrugated cavity",
+      "authors": [
+        "Elodie Durand",
+        "Lukasz Nowak"
+      ],
+      "year": 2020,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Boundary modes in a corrugated cavity",
+        "authors": [
+          "Élodie Durand",
+          "Łukasz Nowak"
+        ],
+        "year": 2020,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.006"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-006",
+        "source_url": "https://example.invalid/fixtures/006"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.006"
+    }
+  },
+  {
+    "case_id": "historical_ionisation",
+    "category": "historical_physics",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Ionisation of rarefied gas by weak fields",
+      "authors": [
+        "Clara Voss"
+      ],
+      "year": 1912,
+      "journal": "Annals of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Ionization of rarefied gas by weak fields",
+        "authors": [
+          "Clara Voss"
+        ],
+        "year": 1912,
+        "journal": "Annals of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.007"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-007",
+        "source_url": "https://example.invalid/fixtures/007"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.007"
+    }
+  },
+  {
+    "case_id": "historical_ligature",
+    "category": "historical_physics",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Oscillations in the luminiferous æther",
+      "authors": [
+        "Henri Morel"
+      ],
+      "year": 1897,
+      "journal": "Proceedings of Synthetic Science",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Oscillations in the luminiferous ether",
+        "authors": [
+          "Henri Morel"
+        ],
+        "year": 1897,
+        "journal": "Proceedings of Synthetic Science",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.008"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-008",
+        "source_url": "https://example.invalid/fixtures/008"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.008"
+    }
+  },
+  {
+    "case_id": "historical_connexion",
+    "category": "historical_physics",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "On the connexion between heat and radiation",
+      "authors": [
+        "Clara Voss"
+      ],
+      "year": 1908,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "On the connection between heat and radiation",
+        "authors": [
+          "Clara Voss"
+        ],
+        "year": 1908,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.009"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-009",
+        "source_url": "https://example.invalid/fixtures/009"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.009"
+    }
+  },
+  {
+    "case_id": "historical_spelling",
+    "category": "historical_physics",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Colour centres and the behaviour of crystals",
+      "authors": [
+        "Henri Morel"
+      ],
+      "year": 1931,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Color centers and the behavior of crystals",
+        "authors": [
+          "Henri Morel"
+        ],
+        "year": 1931,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.010"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-010",
+        "source_url": "https://example.invalid/fixtures/010"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.010"
+    }
+  },
+  {
+    "case_id": "cyrillic_transliteration",
+    "category": "transliteration",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Magnetic susceptibility of synthetic powders",
+      "authors": [
+        "Борис Волков"
+      ],
+      "year": 1942,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Magnetic susceptibility of synthetic powders",
+        "authors": [
+          "Boris Volkov"
+        ],
+        "year": 1942,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.011"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-011",
+        "source_url": "https://example.invalid/fixtures/011"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.011"
+    }
+  },
+  {
+    "case_id": "explicit_transliteration_alias",
+    "category": "transliteration",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Low frequency dielectric relaxation",
+      "authors": [
+        "Boris Volkoff"
+      ],
+      "year": 1953,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+      "author_variants": [
+        "Boris Volkov"
+      ]
+    },
+    "candidates": [
+      {
+        "title": "Low frequency dielectric relaxation",
+        "authors": [
+          "Boris Volkov"
+        ],
+        "year": 1953,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.012"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "author_variants": [
+          "Boris Volkov"
+        ],
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-012",
+        "source_url": "https://example.invalid/fixtures/012"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.012"
+    }
+  },
+  {
+    "case_id": "translated_target_alias",
+    "category": "translated_titles",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Über die Streuung langsamer Teilchen",
+      "authors": [
+        "Marta Weiss"
+      ],
+      "year": 1927,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+      "title_variants": [
+        "On the scattering of slow particles"
+      ]
+    },
+    "candidates": [
+      {
+        "title": "On the scattering of slow particles",
+        "authors": [
+          "Marta Weiss"
+        ],
+        "year": 1927,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.013"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "title_variants": [],
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-013",
+        "source_url": "https://example.invalid/fixtures/013"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.013"
+    }
+  },
+  {
+    "case_id": "translated_candidate_alias",
+    "category": "translated_titles",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Electrical relaxation in a model solid",
+      "authors": [
+        "Henri Morel"
+      ],
+      "year": 1936,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Relaxation électrique dans un solide modèle",
+        "authors": [
+          "Henri Morel"
+        ],
+        "year": 1936,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.014"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-014",
+        "source_url": "https://example.invalid/fixtures/014",
+        "title_variants": [
+          "Electrical relaxation in a model solid"
+        ]
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.014"
+    }
+  },
+  {
+    "case_id": "translation_without_evidence",
+    "category": "translated_titles",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Sur les oscillations du champ magnétique",
+      "authors": [
+        "Élodie Durand"
+      ],
+      "year": 1929,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "On oscillations of the magnetic field",
+        "authors": [
+          "Élodie Durand"
+        ],
+        "year": 1929,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.015"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-015",
+        "source_url": "https://example.invalid/fixtures/015"
+      }
+    ],
+    "expected_status": "unresolved",
+    "expected_identifiers": null
+  },
+  {
+    "case_id": "journal_physical_review",
+    "category": "journal_abbreviations",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Resonant absorption in a synthetic vapor",
+      "authors": [
+        "Ivo Reed"
+      ],
+      "year": 1951,
+      "journal": "Phys. Rev.",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Resonant absorption in a synthetic vapor",
+        "authors": [
+          "Ivo Reed"
+        ],
+        "year": 1951,
+        "journal": "Physical Review",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.016"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-016",
+        "source_url": "https://example.invalid/fixtures/016"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.016"
+    }
+  },
+  {
+    "case_id": "journal_applied_physics",
+    "category": "journal_abbreviations",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Radiative decay of an ideal rotor",
+      "authors": [
+        "Ada Vale"
+      ],
+      "year": 1962,
+      "journal": "J. Appl. Phys.",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Radiative decay of an ideal rotor",
+        "authors": [
+          "Ada Vale"
+        ],
+        "year": 1962,
+        "journal": "Journal of Applied Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.017"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-017",
+        "source_url": "https://example.invalid/fixtures/017"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.017"
+    }
+  },
+  {
+    "case_id": "journal_initialism",
+    "category": "journal_abbreviations",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Pressure response in a sealed calorimeter",
+      "authors": [
+        "Marta Weiss"
+      ],
+      "year": 1973,
+      "journal": "PRL",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Pressure response in a sealed calorimeter",
+        "authors": [
+          "Marta Weiss"
+        ],
+        "year": 1973,
+        "journal": "Physical Review Letters",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.018"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-018",
+        "source_url": "https://example.invalid/fixtures/018"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.018"
+    }
+  },
+  {
+    "case_id": "journal_explicit_historical_alias",
+    "category": "journal_abbreviations",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Fluctuations in a dilute synthetic plasma",
+      "authors": [
+        "Clara Voss"
+      ],
+      "year": 1918,
+      "journal": "Ann. Synth. Wiss.",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+      "journal_variants": [
+        "Annals of Synthetic Science"
+      ]
+    },
+    "candidates": [
+      {
+        "title": "Fluctuations in a dilute synthetic plasma",
+        "authors": [
+          "Clara Voss"
+        ],
+        "year": 1918,
+        "journal": "Annals of Synthetic Science",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.019"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "journal_variants": [],
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-019",
+        "source_url": "https://example.invalid/fixtures/019"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.019"
+    }
+  },
+  {
+    "case_id": "book_exact_edition",
+    "category": "books",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Introduction to Synthetic Electrodynamics",
+      "authors": [
+        "Ada Vale"
+      ],
+      "year": 1986,
+      "journal": "",
+      "identifiers": {},
+      "type": "book",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+      "edition": "1"
+    },
+    "candidates": [
+      {
+        "title": "Introduction to Synthetic Electrodynamics",
+        "authors": [
+          "Ada Vale"
+        ],
+        "year": 1986,
+        "journal": "",
+        "identifiers": {
+          "isbn": "0000000000020"
+        },
+        "type": "book",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "edition": "1",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-020",
+        "source_url": "https://example.invalid/fixtures/020"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "isbn": "0000000000020"
+    }
+  },
+  {
+    "case_id": "historical_book",
+    "category": "books",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Tables of Synthetic Atomic Spectra",
+      "authors": [
+        "Ivo Reed"
+      ],
+      "year": 1934,
+      "journal": "",
+      "identifiers": {},
+      "type": "book",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Tables of Synthetic Atomic Spectra",
+        "authors": [
+          "Ivo Reed"
+        ],
+        "year": 1934,
+        "journal": "",
+        "identifiers": {
+          "isbn": "0000000000021"
+        },
+        "type": "book",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-021",
+        "source_url": "https://example.invalid/fixtures/021"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "isbn": "0000000000021"
+    }
+  },
+  {
+    "case_id": "book_ambiguous_editions",
+    "category": "alternate_editions",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Synthetic Methods of Mathematical Physics",
+      "authors": [
+        "Marta Weiss"
+      ],
+      "year": null,
+      "journal": "",
+      "identifiers": {},
+      "type": "book",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Synthetic Methods of Mathematical Physics",
+        "authors": [
+          "Marta Weiss"
+        ],
+        "year": 1948,
+        "journal": "",
+        "identifiers": {
+          "isbn": "0000000000022"
+        },
+        "type": "book",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-022",
+        "source_url": "https://example.invalid/fixtures/022",
+        "edition": "1"
+      },
+      {
+        "title": "Synthetic Methods of Mathematical Physics",
+        "authors": [
+          "Marta Weiss"
+        ],
+        "year": 1963,
+        "journal": "",
+        "identifiers": {
+          "isbn": "0000000000023"
+        },
+        "type": "book",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-023",
+        "source_url": "https://example.invalid/fixtures/023",
+        "edition": "2"
+      }
+    ],
+    "expected_status": "ambiguous_editions",
+    "expected_identifiers": null
+  },
+  {
+    "case_id": "book_requested_edition",
+    "category": "alternate_editions",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Synthetic Methods of Mathematical Physics",
+      "authors": [
+        "Marta Weiss"
+      ],
+      "year": 1963,
+      "journal": "",
+      "identifiers": {},
+      "type": "book",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+      "edition": "2"
+    },
+    "candidates": [
+      {
+        "title": "Synthetic Methods of Mathematical Physics",
+        "authors": [
+          "Marta Weiss"
+        ],
+        "year": 1948,
+        "journal": "",
+        "identifiers": {
+          "isbn": "0000000000024"
+        },
+        "type": "book",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "edition": "1",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-024",
+        "source_url": "https://example.invalid/fixtures/024"
+      },
+      {
+        "title": "Synthetic Methods of Mathematical Physics",
+        "authors": [
+          "Marta Weiss"
+        ],
+        "year": 1963,
+        "journal": "",
+        "identifiers": {
+          "isbn": "0000000000025"
+        },
+        "type": "book",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "edition": "2",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-025",
+        "source_url": "https://example.invalid/fixtures/025"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "isbn": "0000000000025"
+    }
+  },
+  {
+    "case_id": "book_wrong_edition",
+    "category": "false_matches",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Theory of Synthetic Elastic Waves",
+      "authors": [
+        "Clara Voss"
+      ],
+      "year": 1922,
+      "journal": "",
+      "identifiers": {},
+      "type": "book",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+      "edition": "2"
+    },
+    "candidates": [
+      {
+        "title": "Theory of Synthetic Elastic Waves",
+        "authors": [
+          "Clara Voss"
+        ],
+        "year": 1922,
+        "journal": "",
+        "identifiers": {
+          "isbn": "0000000000026"
+        },
+        "type": "book",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "edition": "1",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-026",
+        "source_url": "https://example.invalid/fixtures/026"
+      }
+    ],
+    "expected_status": "unresolved",
+    "expected_identifiers": null
+  },
+  {
+    "case_id": "near_title_opposite_effect",
+    "category": "false_matches",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Radiative heating of a synthetic cavity",
+      "authors": [
+        "Ada Vale"
+      ],
+      "year": 2020,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Radiative cooling of a synthetic cavity",
+        "authors": [
+          "Ada Vale"
+        ],
+        "year": 2020,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.027"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-027",
+        "source_url": "https://example.invalid/fixtures/027"
+      }
+    ],
+    "expected_status": "unresolved",
+    "expected_identifiers": null
+  },
+  {
+    "case_id": "wrong_author",
+    "category": "false_matches",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Thermal response of a thin metal foil",
+      "authors": [
+        "Ada Vale"
+      ],
+      "year": 2020,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Thermal response of a thin metal foil",
+        "authors": [
+          "Ivo Reed"
+        ],
+        "year": 2020,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.028"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-028",
+        "source_url": "https://example.invalid/fixtures/028"
+      }
+    ],
+    "expected_status": "unresolved",
+    "expected_identifiers": null
+  },
+  {
+    "case_id": "conflicting_initials",
+    "category": "false_matches",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Thermal response of a thin metal foil",
+      "authors": [
+        "A. Vale"
+      ],
+      "year": 2020,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Thermal response of a thin metal foil",
+        "authors": [
+          "B. Vale"
+        ],
+        "year": 2020,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.029"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-029",
+        "source_url": "https://example.invalid/fixtures/029"
+      }
+    ],
+    "expected_status": "unresolved",
+    "expected_identifiers": null
+  },
+  {
+    "case_id": "partial_author_false_match",
+    "category": "false_matches",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Coupled oscillations in two resonators",
+      "authors": [
+        "Ada Vale",
+        "Ivo Reed"
+      ],
+      "year": 2020,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Coupled oscillations in two resonators",
+        "authors": [
+          "Ada Vale",
+          "Marta Weiss"
+        ],
+        "year": 2020,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.030"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-030",
+        "source_url": "https://example.invalid/fixtures/030"
+      }
+    ],
+    "expected_status": "unresolved",
+    "expected_identifiers": null
+  },
+  {
+    "case_id": "wrong_publication_year",
+    "category": "false_matches",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Scattering by an ideal cylindrical well",
+      "authors": [
+        "Ivo Reed"
+      ],
+      "year": 1926,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Scattering by an ideal cylindrical well",
+        "authors": [
+          "Ivo Reed"
+        ],
+        "year": 1988,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.031"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-031",
+        "source_url": "https://example.invalid/fixtures/031"
+      }
+    ],
+    "expected_status": "unresolved",
+    "expected_identifiers": null
+  },
+  {
+    "case_id": "one_year_drift",
+    "category": "missing_metadata",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Scattering by an ideal cylindrical well",
+      "authors": [
+        "Ivo Reed"
+      ],
+      "year": 2020,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Scattering by an ideal cylindrical well",
+        "authors": [
+          "Ivo Reed"
+        ],
+        "year": 2021,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.032"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-032",
+        "source_url": "https://example.invalid/fixtures/032"
+      }
+    ],
+    "expected_status": "plausible",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.032"
+    }
+  },
+  {
+    "case_id": "conflicting_doi",
+    "category": "false_matches",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Stability of a synthetic magnetic bottle",
+      "authors": [
+        "Marta Weiss"
+      ],
+      "year": 2020,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {
+        "doi": "10.0000/synthetic.fixture.target"
+      },
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Stability of a synthetic magnetic bottle",
+        "authors": [
+          "Marta Weiss"
+        ],
+        "year": 2020,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.033"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-033",
+        "source_url": "https://example.invalid/fixtures/033"
+      }
+    ],
+    "expected_status": "unresolved",
+    "expected_identifiers": null
+  },
+  {
+    "case_id": "book_article_type_conflict",
+    "category": "false_matches",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Synthetic Statistical Mechanics",
+      "authors": [
+        "Clara Voss"
+      ],
+      "year": 2014,
+      "journal": "",
+      "identifiers": {},
+      "type": "book",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Synthetic Statistical Mechanics",
+        "authors": [
+          "Clara Voss"
+        ],
+        "year": 2014,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.034"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-034",
+        "source_url": "https://example.invalid/fixtures/034"
+      }
+    ],
+    "expected_status": "unresolved",
+    "expected_identifiers": null
+  },
+  {
+    "case_id": "conflicting_title_number",
+    "category": "false_matches",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Polarization modes of cavity 3",
+      "authors": [
+        "Ada Vale"
+      ],
+      "year": 2020,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Polarization modes of cavity 4",
+        "authors": [
+          "Ada Vale"
+        ],
+        "year": 2020,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.035"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-035",
+        "source_url": "https://example.invalid/fixtures/035"
+      }
+    ],
+    "expected_status": "unresolved",
+    "expected_identifiers": null
+  },
+  {
+    "case_id": "missing_target_authors",
+    "category": "missing_metadata",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Relaxation of model spin ensembles",
+      "authors": [],
+      "year": 2020,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Relaxation of model spin ensembles",
+        "authors": [
+          "Ada Vale"
+        ],
+        "year": 2020,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.036"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-036",
+        "source_url": "https://example.invalid/fixtures/036"
+      }
+    ],
+    "expected_status": "plausible",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.036"
+    }
+  },
+  {
+    "case_id": "missing_target_year",
+    "category": "missing_metadata",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Relaxation of model spin ensembles",
+      "authors": [
+        "Ada Vale"
+      ],
+      "year": null,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Relaxation of model spin ensembles",
+        "authors": [
+          "Ada Vale"
+        ],
+        "year": 2020,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.037"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-037",
+        "source_url": "https://example.invalid/fixtures/037"
+      }
+    ],
+    "expected_status": "plausible",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.037"
+    }
+  },
+  {
+    "case_id": "title_only",
+    "category": "missing_metadata",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Relaxation of model spin ensembles",
+      "authors": [],
+      "year": null,
+      "journal": "",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Relaxation of model spin ensembles",
+        "authors": [
+          "Ada Vale"
+        ],
+        "year": 2020,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.038"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-038",
+        "source_url": "https://example.invalid/fixtures/038"
+      }
+    ],
+    "expected_status": "plausible",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.038"
+    }
+  },
+  {
+    "case_id": "missing_candidate_authors",
+    "category": "missing_metadata",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Relaxation of model spin ensembles",
+      "authors": [
+        "Ada Vale"
+      ],
+      "year": 2020,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Relaxation of model spin ensembles",
+        "authors": [],
+        "year": 2020,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.039"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-039",
+        "source_url": "https://example.invalid/fixtures/039"
+      }
+    ],
+    "expected_status": "plausible",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.039"
+    }
+  },
+  {
+    "case_id": "no_candidates",
+    "category": "missing_metadata",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Undocumented synthetic lattice response",
+      "authors": [
+        "Ivo Reed"
+      ],
+      "year": 1901,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [],
+    "expected_status": "unresolved",
+    "expected_identifiers": null
+  },
+  {
+    "case_id": "doi_url_normalization",
+    "category": "identifiers",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Coherent mode conversion in synthetic films",
+      "authors": [
+        "Ada Vale"
+      ],
+      "year": 2020,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {
+        "doi": "https://doi.org/10.0000/SYNTHETIC.FIXTURE.040"
+      },
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Coherent mode conversion in synthetic films",
+        "authors": [
+          "Ada Vale"
+        ],
+        "year": 2020,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.040"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-040",
+        "source_url": "https://example.invalid/fixtures/040"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.040"
+    }
+  },
+  {
+    "case_id": "pmid_exact",
+    "category": "identifiers",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "A clinical synthetic sensor calibration",
+      "authors": [
+        "Elodie Durand"
+      ],
+      "year": 2022,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {
+        "pmid": "0000041"
+      },
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "A clinical synthetic sensor calibration",
+        "authors": [
+          "Elodie Durand"
+        ],
+        "year": 2022,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "pmid": "0000041"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-041",
+        "source_url": "https://example.invalid/fixtures/041"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "pmid": "0000041"
+    }
+  },
+  {
+    "case_id": "openalex_id_normalization",
+    "category": "identifiers",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "An indexed synthetic particle catalogue",
+      "authors": [
+        "Marta Weiss"
+      ],
+      "year": 2019,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {
+        "openalex": "W0000000042"
+      },
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "An indexed synthetic particle catalogue",
+        "authors": [
+          "Marta Weiss"
+        ],
+        "year": 2019,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "openalex": "https://openalex.org/W0000000042"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-042",
+        "source_url": "https://example.invalid/fixtures/042"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "openalex": "https://openalex.org/W0000000042"
+    }
+  },
+  {
+    "case_id": "isbn_separator_normalization",
+    "category": "identifiers",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Synthetic Radiation Tables",
+      "authors": [
+        "Ivo Reed"
+      ],
+      "year": 1967,
+      "journal": "",
+      "identifiers": {
+        "isbn": "000-0000-000043"
+      },
+      "type": "book",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Synthetic Radiation Tables",
+        "authors": [
+          "Ivo Reed"
+        ],
+        "year": 1967,
+        "journal": "",
+        "identifiers": {
+          "isbn": "0000000000043"
+        },
+        "type": "book",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-043",
+        "source_url": "https://example.invalid/fixtures/043"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "isbn": "0000000000043"
+    }
+  },
+  {
+    "case_id": "same_title_distinct_dois",
+    "category": "ambiguity",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Symmetric modes in an ideal synthetic torus",
+      "authors": [
+        "Ada Vale"
+      ],
+      "year": 2010,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Symmetric modes in an ideal synthetic torus",
+        "authors": [
+          "Ada Vale"
+        ],
+        "year": 2010,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.044"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-044",
+        "source_url": "https://example.invalid/fixtures/044"
+      },
+      {
+        "title": "Symmetric modes in an ideal synthetic torus",
+        "authors": [
+          "Ada Vale"
+        ],
+        "year": 2010,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.045"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-045",
+        "source_url": "https://example.invalid/fixtures/045"
+      }
+    ],
+    "expected_status": "plausible",
+    "expected_identifiers": null
+  },
+  {
+    "case_id": "correct_candidate_among_distractors",
+    "category": "modern_papers",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Density waves in a layered synthetic fluid",
+      "authors": [
+        "Ivo Reed"
+      ],
+      "year": 2018,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Density waves in a layered synthetic fluid",
+        "authors": [
+          "Clara Voss"
+        ],
+        "year": 2018,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.046"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-046",
+        "source_url": "https://example.invalid/fixtures/046"
+      },
+      {
+        "title": "Density waves in a layered synthetic fluid",
+        "authors": [
+          "Ivo Reed"
+        ],
+        "year": 2018,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.047"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-047",
+        "source_url": "https://example.invalid/fixtures/047"
+      },
+      {
+        "title": "Density oscillations in a synthetic crystal",
+        "authors": [
+          "Ivo Reed"
+        ],
+        "year": 2018,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.048"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-048",
+        "source_url": "https://example.invalid/fixtures/048"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.047"
+    }
+  },
+  {
+    "case_id": "duplicate_source_identity",
+    "category": "identifiers",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "target": {
+      "title": "Radiofrequency calibration of a synthetic probe",
+      "authors": [
+        "Ada Vale"
+      ],
+      "year": 2015,
+      "journal": "Journal of Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Radiofrequency calibration of a synthetic probe",
+        "authors": [
+          "Ada Vale"
+        ],
+        "year": 2015,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.049"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-049",
+        "source_url": "https://example.invalid/fixtures/049"
+      },
+      {
+        "title": "Radiofrequency calibration of a synthetic probe",
+        "authors": [
+          "Ada Vale"
+        ],
+        "year": 2015,
+        "journal": "Journal of Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.049"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "duplicate-fixture-049",
+        "source_url": "https://example.invalid/fixtures/049"
+      }
+    ],
+    "expected_status": "verified",
+    "expected_identifiers": {
+      "doi": "10.0000/synthetic.fixture.049"
+    }
+  },
+  {
+    "case_id": "long_title_wrong_isotope",
+    "category": "false_matches",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "fixture_annotation": "Deliberately different scientific subject or process. Similar wording supports review only, not a unique publication identity.",
+    "target": {
+      "title": "Experimental investigation of the influence of weak magnetic fields on hydrogen absorption in synthetic palladium samples",
+      "authors": [
+        "Ada Vale"
+      ],
+      "year": 2020,
+      "journal": "Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Experimental investigation of the influence of weak magnetic fields on deuterium absorption in synthetic palladium samples",
+        "authors": [
+          "Ada Vale"
+        ],
+        "year": 2020,
+        "journal": "Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.050"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-050",
+        "source_url": "https://example.invalid/fixtures/050"
+      }
+    ],
+    "expected_status": "plausible",
+    "expected_identifiers": null
+  },
+  {
+    "case_id": "long_title_wrong_process",
+    "category": "false_matches",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "fixture_annotation": "Deliberately different scientific subject or process. Similar wording supports review only, not a unique publication identity.",
+    "target": {
+      "title": "Experimental investigation of the influence of weak magnetic fields on hydrogen absorption in synthetic palladium samples",
+      "authors": [
+        "Ada Vale"
+      ],
+      "year": 2020,
+      "journal": "Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Experimental investigation of the influence of weak magnetic fields on hydrogen desorption in synthetic palladium samples",
+        "authors": [
+          "Ada Vale"
+        ],
+        "year": 2020,
+        "journal": "Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.051"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-051",
+        "source_url": "https://example.invalid/fixtures/051"
+      }
+    ],
+    "expected_status": "plausible",
+    "expected_identifiers": null
+  },
+  {
+    "case_id": "long_title_wrong_material",
+    "category": "false_matches",
+    "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+    "fixture_annotation": "Deliberately different scientific subject or process. Similar wording supports review only, not a unique publication identity.",
+    "target": {
+      "title": "Experimental investigation of the influence of weak magnetic fields on hydrogen absorption in synthetic palladium samples",
+      "authors": [
+        "Ada Vale"
+      ],
+      "year": 2020,
+      "journal": "Synthetic Physics",
+      "identifiers": {},
+      "type": "journal-article",
+      "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative."
+    },
+    "candidates": [
+      {
+        "title": "Experimental investigation of the influence of weak magnetic fields on hydrogen absorption in synthetic titanium samples",
+        "authors": [
+          "Ada Vale"
+        ],
+        "year": 2020,
+        "journal": "Synthetic Physics",
+        "identifiers": {
+          "doi": "10.0000/synthetic.fixture.052"
+        },
+        "type": "journal-article",
+        "fixture_provenance": "Synthetic deterministic engineering fixture; names, titles, metadata and identifiers are invented, not fetched or authoritative.",
+        "source": "synthetic_fixture",
+        "source_record_id": "fixture-052",
+        "source_url": "https://example.invalid/fixtures/052"
+      }
+    ],
+    "expected_status": "plausible",
+    "expected_identifiers": null
+  }
+]
