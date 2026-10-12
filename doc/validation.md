@@ -1,10 +1,11 @@
 # Validation — 12 October 2026
 
-The standalone reconciliation package passed **93 deterministic tests** on
+The standalone reconciliation package passed **94 deterministic tests** on
 Python **3.12.14** and **3.14.7**. The tests cover input validation and lossless
 output, worker readiness, scoring/edition decisions, labeled benchmarks,
 mocked public-service responses, bounded retries, cache integrity, credential
-handling, malformed metadata, and resource cleanup. No document acquisition is
+handling, malformed metadata, resource cleanup, and Python 3.9 bodyless HTTP
+error compatibility. No document acquisition is
 part of these tests.
 
 The existing fork's **14 local regression tests** passed with Python 3.12.14 and

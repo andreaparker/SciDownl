@@ -132,7 +132,8 @@ def _retry_date(value, attempt):
 
 
 def _http_failure(error, attempt, retries):
-    error.close()
+    if error.fp is not None:
+        error.close()
     retryable = error.code == 429 or 500 <= error.code < 600
     if retryable and attempt < retries:
         time.sleep(_retry_delay(error.headers, attempt))

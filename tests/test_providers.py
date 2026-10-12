@@ -259,6 +259,18 @@ class ProviderTests(unittest.TestCase):
         self.assertTrue(body.closed)
         self.assertEqual(result["http_status"], 503)
 
+    def test_bodyless_legacy_http_error_skips_close(self):
+        error = http_error(404)
+        original_body, error.fp = error.fp, None
+        self.respond(error)
+        with patch.object(error, "close") as close:
+            result = get_json(URL, "crossref", {"retries": 0})
+        close.assert_not_called()
+        self.assertEqual(result["http_status"], 404)
+        error.fp = original_body
+        if original_body is not None:
+            error.close()
+
     def test_retry_after_is_bounded_and_then_succeeds(self):
         self.respond(http_error(429, "900"), {"message": {"items": []}})
         with patch("scidownl_reconcile.transport.time.sleep") as sleep:
