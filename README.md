@@ -254,3 +254,13 @@ More examples could be seen in [examples](./example/simple.py).
 Copyright (c) 2022 tishacy.
 
 Licensed under the [MIT License](https://github.com/Tishacy/SciDownl/blob/v1.0/LICENSE).
+
+## Independent bibliographic reconciliation
+
+Resolve CSV/JSON acquisition targets using public Crossref and OpenAlex metadata,
+with scored candidate evidence and a verified-only worker manifest. No download
+or Sci-Hub access is needed. See [the reconciliation guide](doc/reconciliation.md).
+
+```sh
+python -m scidownl_reconcile unresolved.csv --output audit.json --worker-output verified.json
+```

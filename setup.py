@@ -23,7 +23,8 @@ setuptools.setup(
     install_requires=install_requires,
     entry_points={
         'console_scripts': [
-            'scidownl=scidownl.api.cli:cli'
+            'scidownl=scidownl.api.cli:cli',
+            'scidownl-reconcile=scidownl_reconcile.cli:main'
         ],
     },
     classifiers=[

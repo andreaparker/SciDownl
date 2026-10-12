@@ -1,0 +1,14 @@
+{
+  "synthetic-example": [
+    {
+      "title": "Precision measurement of optical frequencies",
+      "authors": ["Ada Example"],
+      "year": 2020,
+      "journal": "Synthetic Physics",
+      "type": "journal-article",
+      "identifiers": {"doi": "10.0000/synthetic.example"},
+      "sources": [{"provider": "synthetic_fixture", "source_id": "example", "note": "Invented test metadata; not an authoritative bibliographic record."}],
+      "oa_locations": []
+    }
+  ]
+}
